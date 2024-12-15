@@ -16,7 +16,7 @@ This project is a web application that performs **sentiment analysis** on movie 
 ## Tech Stack
 
 - **Programming Language**: Python
-- **Machine Learning Framework**: TensorFlow, Keras
+- **Deep Learning Frameworks**: TensorFlow, Keras
 - **Natural Language Processing**: Tokenization, Embedding layers
 - **Web Deployment Framework**: Streamlit
 - **Dataset**: IMDB Movie Reviews Dataset
@@ -25,11 +25,11 @@ This project is a web application that performs **sentiment analysis** on movie 
 
 ## Installation and Setup
 
-1. **Clone the Repository**:
-```bash
-git clone https://github.com/jimmymuthoni/Movies-Sentiment-Analysis.git
-cd Movies-Sentiment-Analysis
-```
+   1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/jimmymuthoni/Movies-Sentiment-Analysis.git
+   cd Movies-Sentiment-Analysis
+   ```
 2. **Create a Virtual Environment**:
    ```bash
    python -m venv venv
@@ -47,14 +47,14 @@ cd Movies-Sentiment-Analysis
 
    The application will start running on `http://127.0.0.1:5000`.
    ## How Streamlit Page Looks
+   
    ![Screenshot](https://github.com/jimmymuthoni/Movies-Sentiment-Analysis/blob/933740f9a1eb0c2f5041881d7c0ca0d4a4fb43a7/moviereview.png)
    
-   ![Screenshot]()
+   ![Screenshot](https://github.com/jimmymuthoni/Movies-Sentiment-Analysis/blob/9920bd892b8b6a90a31594c0b7227d4bd33fbb9e/sentimental.png)
 
    ## Future Improvements
 
-- Add more features for prediction.
-- Implement additional machine learning models for comparison.
+- Implement additional Variants of Neural Networks for comparison.
 - Improve the UI/UX of the web application.
 - Deploy the application using cloud platforms like AWS or Heroku.
 
