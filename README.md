@@ -25,7 +25,49 @@ This project is a web application that performs **sentiment analysis** on movie 
 
 ## Installation and Setup
 
-### Clone the Repository:
+1. **Clone the Repository**:
 ```bash
-git clone https://github.com/jimmymuthoni/IMDB-Sentiment-Analysis-RNN.git
-cd IMDB-Sentiment-Analysis-RNN
+git clone https://github.com/jimmymuthoni/Movies-Sentiment-Analysis.git
+cd Movies-Sentiment-Analysis
+```
+2. **Create a Virtual Environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+3. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Application**:
+   ```bash
+   python application.py
+   ```
+
+   The application will start running on `http://127.0.0.1:5000`.
+   ## How Streamlit Page Looks
+   ![Screenshot]()
+   
+   ![Screenshot]()
+
+   ## Future Improvements
+
+- Add more features for prediction.
+- Implement additional machine learning models for comparison.
+- Improve the UI/UX of the web application.
+- Deploy the application using cloud platforms like AWS or Heroku.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contributing
+
+Contributions are welcome! Please create an issue or submit a pull request for any improvements.
+
+
+## Contact
+For inquiries or contributions, please contact [jimmymuthoni26@gmail.com].
+   
+
