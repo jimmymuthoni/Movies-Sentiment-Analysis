@@ -47,7 +47,7 @@ cd Movies-Sentiment-Analysis
 
    The application will start running on `http://127.0.0.1:5000`.
    ## How Streamlit Page Looks
-   ![Screenshot]()
+   ![Screenshot](https://github.com/jimmymuthoni/Movies-Sentiment-Analysis/blob/933740f9a1eb0c2f5041881d7c0ca0d4a4fb43a7/moviereview.png)
    
    ![Screenshot]()
 
