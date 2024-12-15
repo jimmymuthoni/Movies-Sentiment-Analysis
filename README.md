@@ -24,8 +24,7 @@ This project is a web application that performs **sentiment analysis** on movie 
 ---
 
 ## Installation and Setup
-
-   1. **Clone the Repository**:
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/jimmymuthoni/Movies-Sentiment-Analysis.git
    cd Movies-Sentiment-Analysis
@@ -46,6 +45,7 @@ This project is a web application that performs **sentiment analysis** on movie 
    ```
 
    The application will start running on `http://127.0.0.1:5000`.
+   
    ## How Streamlit Page Looks
    
    ![Screenshot](https://github.com/jimmymuthoni/Movies-Sentiment-Analysis/blob/933740f9a1eb0c2f5041881d7c0ca0d4a4fb43a7/moviereview.png)
@@ -53,7 +53,6 @@ This project is a web application that performs **sentiment analysis** on movie 
    ![Screenshot](https://github.com/jimmymuthoni/Movies-Sentiment-Analysis/blob/9920bd892b8b6a90a31594c0b7227d4bd33fbb9e/sentimental.png)
 
    ## Future Improvements
-
 - Implement additional Variants of Neural Networks for comparison.
 - Improve the UI/UX of the web application.
 - Deploy the application using cloud platforms like AWS or Heroku.
@@ -65,7 +64,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request for any improvements.
-
 
 ## Contact
 For inquiries or contributions, please contact [jimmymuthoni26@gmail.com].
